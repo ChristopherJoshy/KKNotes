@@ -7,7 +7,7 @@ const menuToggle = document.querySelector('.menu-toggle');
 const navLinks = document.querySelector('.nav-links');
 
 // Current active semester
-let currentSemester = 's4'; // Default to S1
+let currentSemester = 's1'; // Default to S1
 
 // Event Listeners
 document.addEventListener('DOMContentLoaded', initialize);
