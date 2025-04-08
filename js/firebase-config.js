@@ -58,7 +58,7 @@ function initializeDatabase() {
         if (!snapshot.exists()) {
             // Create default structure for semesters S1-S8
             const defaultSemesters = {};
-            
+        /*    
             for (let i = 1; i <= 8; i++) {
                 defaultSemesters[`s${i}`] = {
                     // Sample note to show structure
@@ -68,6 +68,7 @@ function initializeDatabase() {
                     }
                 };
             }
+               */
             
             // Set default data
             database.ref('notes').set(defaultSemesters)
