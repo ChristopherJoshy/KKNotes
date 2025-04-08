@@ -3,7 +3,7 @@
 A simple, clean notes-sharing website for KTU CS students. Made this to help out my classmates access semester materials easily without the usual hassle.
 
 ## What's included
-- Semester-wise notes organization (S1-S8)
+- Semester-wise notes organization (S1-S8) (Only For CS😉)
 - Admin panel for updating Google Drive links
 - Mobile-friendly design that actually looks decent
 
